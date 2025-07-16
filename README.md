@@ -3,7 +3,7 @@
 </div>
 
 
-# 🤠
+# 🤠💻
 I’m a Computer Science student and software developer passionate about solving complex problems through code and rigorous thinking. With nearly 1.5 years of hands-on experience building scalable, high-performance applications, I thrive at the intersection of theory and practice — bringing algorithms, mathematics, and software engineering principles into real-world solutions.<br><br>Currently in my third year at the University of Havana, Faculty of Mathematics and Computer Science, I’ve built a strong foundation in data structures, advanced algorithms, computational algebra, discrete and numerical mathematics, and software engineering practices.<br>What drives me is a deep curiosity about how technology can change the world. I’m always eager to learn emerging technologies, experiment with innovative ideas, and collaborate with others to craft impactful software. I see every challenge as an opportunity to grow as a computer scientist.<br>If you’re looking for someone who combines solid technical fundamentals, creative problem-solving, and a genuine love for technology, let’s connect!
 
 

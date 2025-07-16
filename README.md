@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="700" width="1000" src="https://raw.githubusercontent.com/Javi111003/Javi111003/main/profile-image.jpg"  />
+  <img height="700" width="1000" src="https://raw.githubusercontent.com/Javi111003/Javi111003/main/profile-picture.jpg"  />
 </div>
 
 
